@@ -1,0 +1,63 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: rgba(105, 15, 15, 0.74);
+}
+
+
+img{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+.texto{
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.grupo_fotos{
+    background-color: rgb(204, 161, 105);
+}
+
+.foto{
+    background-color: rgb(110, 20, 20);
+    width: 30%;
+    display: inline-block;
+}
+
+.myButton {
+	background-color:#8c0e2d;
+	border-radius:29px;
+	border:3px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:24px;
+	padding:22px 26px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.myButton:hover {
+	background-color:#9e0000;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.foto_grande{
+	height: 500px;
+	width: 50%;
+	display: inline-block;
+}
+
+.texto_pag2{
+	display: inline-block;
+	width: 40%;
+}
+
