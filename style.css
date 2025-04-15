@@ -69,6 +69,12 @@ img{
 	display: inline-block;
 }
 
+.foto_grande3{
+	height: 500px;
+	width: 50%;
+	display: inline-block;
+}
+
 .myButton {
 	background-color:#690e45;
 	border-radius:30px;
