@@ -63,3 +63,8 @@ img{
 	width: 40%;
 }
 
+.foto_grande2{
+	height: 500px;
+	width: 50%;
+	display: inline-block;
+}
