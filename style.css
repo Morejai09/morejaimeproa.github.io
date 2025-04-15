@@ -68,3 +68,24 @@ img{
 	width: 50%;
 	display: inline-block;
 }
+
+.myButton {
+	background-color:#690e45;
+	border-radius:30px;
+	border:1px solid #690e45;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:17px 27px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #690e45;
+}
+.myButton:hover {
+	background-color:#000000;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
