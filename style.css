@@ -2,6 +2,10 @@ body{
     background-color: bisque;
 }
 
+nav a:hover{
+	color: #000000;
+}
+
 h1{
 	text-align: center;
     color: rgba(105, 15, 15, 0.74);
