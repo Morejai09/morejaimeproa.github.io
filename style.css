@@ -1,3 +1,10 @@
+@font-face{
+	font-family:"FuenteLinda";
+	src: url("fonts/PlayfairDisplay-SemiBoldItalic.ttf");
+}
+
+
+
 body{
     background-color: bisque;
 }
