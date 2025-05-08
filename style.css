@@ -121,6 +121,10 @@ img{
 	color: #000000;
 }
 
+#listanav a{
+	color: #690e45;
+}
+
 #listanav li{
 	display: inline-block;
 	padding: 5px;
