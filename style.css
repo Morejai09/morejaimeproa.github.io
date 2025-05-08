@@ -110,3 +110,18 @@ img{
 	display: inline-block;
 	height: 100px;
 }
+#listanav{
+	background-color: burlywood;
+	list-style: none
+	border-radius: 5px;
+}
+
+#listanav a{
+	text-decoration: none;
+	color: #000000;
+}
+
+#listanav li{
+	display: inline-block;
+	padding: 5px;
+}
