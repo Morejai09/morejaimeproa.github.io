@@ -1,6 +1,6 @@
 @font-face{
 	font-family:"FuenteLinda";
-	src: url("../fonts/PlayfairDisplay-SemiBoldItalic.ttf");
+	src: url("fonts/PlayfairDisplay-SemiBoldItalic.ttf");
 }
 
 body{
@@ -110,5 +110,3 @@ img{
 	display: inline-block;
 	height: 100px;
 }
-
-
