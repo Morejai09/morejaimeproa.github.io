@@ -118,11 +118,11 @@ img{
 
 #listanav a{
 	text-decoration: none;
-	color: #000000;
+	color:#690e45;
 }
 
 #listanav a:hover{
-	color: #690e45;
+	color: #000000;
 }
 
 #listanav li{
