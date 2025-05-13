@@ -121,7 +121,7 @@ img{
 	color: #000000;
 }
 
-#listanav a{
+#listanav a:hover{
 	color: #690e45;
 }
 
