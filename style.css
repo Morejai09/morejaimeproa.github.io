@@ -129,3 +129,14 @@ img{
 	display: inline-block;
 	padding: 5px;
 }
+
+table th{
+	background-color: chocolate;
+	border: #9e0000;
+	border-style: double;
+}
+table td{
+	background-color: chocolate;
+	border: #9e0000;
+	border-style: double;
+}
