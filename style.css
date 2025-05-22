@@ -129,29 +129,3 @@ img{
 	display: inline-block;
 	padding: 5px;
 }
-
- 
-.tabla1 th{
-	background-color: aquamarine;
-	border: #000000;
-	border-style: double;
-}
-
-.tabla1 td{
-	background-color: aquamarine;
-	border: #000000;
-	border-style: double;
-}
-
-.tabla2 th{
-	background-color: rgb(94, 59, 175);
-	border: #da1d1d;
-	border-style: double;
-}
-
-.tabla2 td{
-	background-color: rgb(94, 59, 175);
-	border:  #da1d1d;
-	border-style: double;
-}
-
