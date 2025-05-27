@@ -7,13 +7,11 @@ body{
     background-image: url(fondo.jpg);
 	background-size: cover;
 	background-position: center;
-	background-repeat: no-repeat;
-	height: 100vh;
-	margin: 0;
+	height: 30vh;
 	font-family:'FuenteLinda';
-	color: bisque;
+	color: #000000;
 	text-align: center;
-	padding: 20%;
+	padding: 5%;
 }
 
 nav a:hover{
