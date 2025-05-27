@@ -130,13 +130,13 @@ img{
 	padding: 5px;
 }
 
-.tbala1 th{
-	background-color: rgba(102, 35, 35, 0.904);
+.tabla1 th{
+	background-color: rgba(141, 56, 56, 0.904);
 	border: #000000;
 	border-style: double;
 }
-.tbala1 td{
-	background-color: rgba(102, 35, 35, 0.904);
+.tabla1 td{
+	background-color:  rgba(141, 56, 56, 0.904);
 	border: #000000;
 	border-style: double;
 }
