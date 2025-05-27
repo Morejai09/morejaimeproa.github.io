@@ -4,8 +4,16 @@
 }
 
 body{
-    background-color: bisque;
+    background-image: url(fondo.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh;
+	margin: 0;
 	font-family:'FuenteLinda';
+	color: bisque;
+	text-align: center;
+	padding: 20%;
 }
 
 nav a:hover{
