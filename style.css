@@ -10,7 +10,6 @@ body{
 	height: 30vh;
 	font-family:'FuenteLinda';
 	color: #000000;
-	text-align: center;
 	padding: 5%;
 }
 
@@ -43,6 +42,11 @@ img{
     display: inline-block;
 }
 
+.encabezado{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
 .myButton {
 	background-color:#8c0e2d;
 	border-radius:29px;
@@ -64,27 +68,61 @@ img{
 	top:1px;
 }
 
-.foto_grande{
-	height: 700px;
-	width: 50%;
-	display: inline-block;
+.bloque{
+	display: flex;
+	align-items: center;
+	gap: 30px;
+	margin: auto;
+	width: 90%;
+	max-width: 1200px;
 }
+
+.foto_grande{
+	width: 50%;
+	height: auto;
+}
+
 
 .texto_foto1{
-	display: inline-block;
-	width: 40%;
+	text-align: left;
+	width: 50%;
 }
 
+
+.bloque{
+	display: flex;
+	align-items: center;
+	gap: 30px;
+	margin: auto;
+	width: 90%;
+	max-width: 1200px;
+}
 .foto_grande2{
-	height: 700px;
+	height: auto;
 	width: 50%;
-	display: inline-block;
+}
+.texto_foto2{
+	text-align: left;
+	width: 50%;
+}
+
+.bloque{
+	display: flex;
+	align-items: center;
+	gap: 30px;
+	margin: auto;
+	width: 90%;
+	max-width: 1200px;
 }
 
 .foto_grande3{
 	height: 700px;
 	width: 50%;
-	display: inline-block;
+}
+
+.texto_foto3{
+	text-align: left;
+	width: 50%;
 }
 
 .myButton {
@@ -142,8 +180,4 @@ img{
 	background-color:  rgba(141, 56, 56, 0.904);
 	border: #000000;
 	border-style: double;
-}
-
-.flex-container {
-  display: flex;
 }
